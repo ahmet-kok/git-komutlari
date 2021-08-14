@@ -78,4 +78,4 @@
 - **git merge branch_ismi —>** Master ile branch_ismi'ni birleştirir.
 - **git merge --squash branch_ismi —>** Master ile branch_ismi'ni birleştirir fakat branch_ismi'nin commit geçmişini tek bir commit'de toplar. Geçmişin çok uzamasını engeller. Bunu yaptıktan sonra son bir commit daha yapmamızı bekler.
 - **git merge --abort —>** Yapmakta olduğumuz merge'ü iptal eder.
-- **git rebase branch_ismi ->** Değişiklikleri sanki ana branch'da yapmış gibi gösterir ve commit tarihçesine bir şey eklemez.
+- **git rebase branch_ismi —>** Değişiklikleri sanki ana branch'da yapmış gibi gösterir ve commit tarihçesine bir şey eklemez.
